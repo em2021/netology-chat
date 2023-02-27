@@ -1,0 +1,3 @@
+#The following file contains the port number for the server
+host: localhost
+port: 9999
